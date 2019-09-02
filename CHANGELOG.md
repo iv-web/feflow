@@ -1,3 +1,121 @@
+<a name="0.15.8"></a>
+## [0.15.8](https://github.com/feflow/feflow/compare/v0.15.6...v0.15.8) (2019-05-30)
+
+
+### Bug Fixes
+
+* add some eslint packages ([#95](https://github.com/feflow/feflow/issues/95)) ([c113162](https://github.com/feflow/feflow/commit/c113162))
+* fix lint rule ([#96](https://github.com/feflow/feflow/issues/96)) ([39e3aa5](https://github.com/feflow/feflow/commit/39e3aa5))
+
+
+
+<a name="0.15.6"></a>
+## [0.15.6](https://github.com/feflow/feflow/compare/v0.15.5...v0.15.6) (2019-05-29)
+
+
+### Bug Fixes
+
+* fix eslint check ([#94](https://github.com/feflow/feflow/issues/94)) ([feee34c](https://github.com/feflow/feflow/commit/feee34c))
+
+
+
+<a name="0.15.5"></a>
+## [0.15.5](https://github.com/feflow/feflow/compare/v0.15.4...v0.15.5) (2019-05-22)
+
+
+### Features
+
+* support active subgenerator ([#93](https://github.com/feflow/feflow/issues/93)) ([234e6bc](https://github.com/feflow/feflow/commit/234e6bc))
+
+
+
+<a name="0.15.4"></a>
+## [0.15.4](https://github.com/feflow/feflow/compare/v0.15.3...v0.15.4) (2019-04-24)
+
+
+### Bug Fixes
+
+* change package.json main file ([#90](https://github.com/feflow/feflow/issues/90)) ([e6e7ee9](https://github.com/feflow/feflow/commit/e6e7ee9))
+
+
+### Features
+
+* add unsafe-perm params to avoid node-sass problems ([#91](https://github.com/feflow/feflow/issues/91)) ([26764dc](https://github.com/feflow/feflow/commit/26764dc))
+* auto list help docs ([#83](https://github.com/feflow/feflow/issues/83)) ([981e329](https://github.com/feflow/feflow/commit/981e329))
+* list plugins and generators ([#88](https://github.com/feflow/feflow/issues/88)) ([984d62b](https://github.com/feflow/feflow/commit/984d62b))
+
+
+
+<a name="0.15.3"></a>
+## [0.15.3](https://github.com/feflow/feflow/compare/v0.15.2...v0.15.3) (2019-02-27)
+
+
+### Bug Fixes
+
+* filter wrong command ([#78](https://github.com/feflow/feflow/issues/78)) ([99b2381](https://github.com/feflow/feflow/commit/99b2381))
+* stop update when full update error ([#74](https://github.com/feflow/feflow/issues/74)) ([85e1633](https://github.com/feflow/feflow/commit/85e1633))
+
+
+
+<a name="0.15.2"></a>
+## [0.15.2](https://github.com/feflow/feflow/compare/v0.15.1...v0.15.2) (2019-02-13)
+
+
+### Bug Fixes
+
+* when install plugin in devDependencies cant use plugin ([9819083](https://github.com/feflow/feflow/commit/9819083))
+
+
+### Features
+
+* add clean command ([632505f](https://github.com/feflow/feflow/commit/632505f))
+
+
+
+<a name="0.15.1"></a>
+## [0.15.1](https://github.com/feflow/feflow/compare/v0.15.0...v0.15.1) (2019-01-03)
+
+
+### Bug Fixes
+
+* update inquirer and yeoman-environment to fix windows bug ([d21d026](https://github.com/feflow/feflow/commit/d21d026))
+* word for scaffold question is error ([501ded5](https://github.com/feflow/feflow/commit/501ded5))
+
+
+### Features
+
+* Pass useful utils function through feflow context to scaffload, builer and plugin ([0845f32](https://github.com/feflow/feflow/commit/0845f32))
+
+
+
+<a name="0.15.0"></a>
+# [0.15.0](https://github.com/feflow/feflow/compare/v0.15.0-alpha.1...v0.15.0) (2018-12-15)
+
+
+### Features
+
+* add disable-check params ([d6542ad](https://github.com/feflow/feflow/commit/d6542ad))
+* disable-check param for templates, builder and plugins ([3d4ea1d](https://github.com/feflow/feflow/commit/3d4ea1d))
+* install templates, builder and plugins with global-style ([bb509d8](https://github.com/feflow/feflow/commit/bb509d8))
+
+
+### Bug Fixes
+
+* require deploy as internal plugins ([81c01c5](https://github.com/feflow/feflow/commit/81c01c5))
+
+
+
+<a name="0.14.0"></a>
+# [0.14.0](https://github.com/feflow/feflow/compare/v0.13.6...v0.14.0) (2018-09-29)
+
+
+### Features
+
+* add deployer command ([1fcba76](https://github.com/feflow/feflow/commit/1fcba76))
+* add eject command ([7b49e2f](https://github.com/feflow/feflow/commit/7b49e2f))
+
+
+
 <a name="0.13.6"></a>
 ## [0.13.6](https://github.com/feflow/feflow/compare/v0.13.5...v0.13.6) (2018-08-08)
 
